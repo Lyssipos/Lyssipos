@@ -1,4 +1,5 @@
-## Hi there 👋
+Please navigate to https://lyssipos.github.io/lyssipos/
+to test iterations of this AR tutorial
 
 <!--
 **Lyssipos/Lyssipos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
